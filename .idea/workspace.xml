@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129f7386-0f00-43f3-8687-4da3c137f758" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/table.html" />
+    <list default="true" id="129f7386-0f00-43f3-8687-4da3c137f758" name="Default Changelist" comment="add table">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -163,12 +160,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558974162928</updated>
-      <workItem from="1558974164432" duration="4568000" />
+      <workItem from="1558974164432" duration="4758000" />
     </task>
+    <task id="LOCAL-00001" summary="add table">
+      <created>1558979619764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558979619764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4991000" />
+    <option name="totallyTimeSpent" value="5181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,8 +211,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add table" />
+    <option name="LAST_COMMIT_MESSAGE" value="add table" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
